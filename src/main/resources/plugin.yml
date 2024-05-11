@@ -1,7 +1,0 @@
-name: BuildFFA
-version: 1.0.0
-main: de.moglii.buildffa.main.Main
-api-version: '1.20'
-commands:
-   buildffa:
-     description: Verwaltet den Spielmodus
